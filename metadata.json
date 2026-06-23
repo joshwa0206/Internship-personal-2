@@ -1,8 +1,0 @@
-{
-  "name": "Task Management Dashboard",
-  "description": "A clean, modern, and professional task management dashboard featuring responsive side-by-side desktop and mobile views with active CRUD operations, Kanban columns, and a real-time activity feed.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
